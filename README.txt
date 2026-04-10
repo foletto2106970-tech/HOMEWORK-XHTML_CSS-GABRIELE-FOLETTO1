@@ -20,4 +20,4 @@ Tecnologie utilizzate:
 	•	Forum statico per simulare l'inserimento di commenti
 
 AUTORE: Gabriele Foletto 2106970
-GITHUB: https://github.com/foletto2106970-tech/HOMEWORK-XHTML_CSS-GABRIELE-FOLETTO.git
+GITHUB: https://github.com/foletto2106970-tech/HOMEWORK-XHTML_CSS-GABRIELE-FOLETTO1.git
